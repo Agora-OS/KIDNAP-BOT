@@ -1,4 +1,7 @@
-# KIDNAP-BOT
+# 𝐊𝐈𝐃𝐍𝐀𝐏 𝐁𝐎𝐓
+
+[![★彡[𝐊𝐈𝐃𝐍𝐀𝐏 𝐁𝐎𝐓]彡★](https://telegra.ph/file/522ed4911518f4b7f51eb.jpg)](https://github.com/Agora-OS/KIDNAP-BOT)
+
 
 ## Before Use This First Read Description
 
