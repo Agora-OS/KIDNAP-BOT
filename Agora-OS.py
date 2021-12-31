@@ -428,9 +428,9 @@ async def start_yukki():
         try:
             print("Booting Up The Client 7")
             await bdk.start()
-            await bdk(functions.channels.JoinChannelRequest(channel="@Mm_userbot"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@MM_UB_UPDATES"))
-            await bdk(functions.channels.JoinChannelRequest(channel="@Mm_ub_spam"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@Mh_userbot"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@Mh_UB_UPDATES"))
+            await bdk(functions.channels.JoinChannelRequest(channel="@Mh_ub_spam"))
             await bdk(functions.channels.JoinChannelRequest(channel=f"@{grp}"))
             botme = await bdk.get_me()
             botid = telethon.utils.get_peer_id(botme)
